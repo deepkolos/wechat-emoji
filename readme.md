@@ -11,4 +11,4 @@
 
 2017/7/8 deepkolos
 
-![file](https://dn-phphub.qbox.me/uploads/images/201707/08/14764/V30P8wTnBa.png)
+![file](https://raw.githubusercontent.com/deepkolos/wechat-emoji/master/preview.jpg)
