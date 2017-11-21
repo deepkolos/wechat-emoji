@@ -11,4 +11,4 @@
 
 2017/7/8 deepkolos
 
-![file](https://raw.githubusercontent.com/deepkolos/wechat-emoji/master/preview.jpg)
+![file](https://raw.githubusercontent.com/deepkolos/wechat-emoji/master/preview.png)
